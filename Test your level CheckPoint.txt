@@ -1,0 +1,37 @@
+Section 1: General Awareness
+Web Development Basics:
+What is web development, and why is it essential in the context of the internet?
+
+Le développement web est l’activité qui consiste à créer des sites et des applications.
+Il est essentiel dans le contexte d’Internet car il permet de créer des sites et applications adaptés aux besoins des utilisateurs.
+
+HTML Knowledge:
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+
+Oui, je connais le HTML, c'est le un langage de balisage utilisé pour structurer et définir le contenu des pages web.
+
+Section 2: Familiarity with CSS
+CSS Understanding:
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+Oui, je connais CSS. C'est un langage utilisé dans le développement web pour définir la mise en forme et l’apparence visuelle des pages HTML.
+
+Section 3: JavaScript and Its Importance
+Introduction to JavaScript:
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+Oui, je connais JavaScript. C'est un langage de programmation, il est essentiel pour rendre les sites web dynamiques et interactifs.
+
+Section 4: Introduction to React and Node.js
+React and Node.js Awareness:
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development. 
+
+Non, je ne connais pas React et Node.js, mais je sais qu'en général, React est axé sur l’interface utilisateur, tandis que Node.js gère la logique côté serveur et les interactions avec les bases de données.
+
+Section 5: Bonus Question
+Learning Intentions:
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+Je souhaite apprendre le développement Web pour acquérir de nouvelles compétences qui m'aiderons à travailler en freelance.
+
+
